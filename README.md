@@ -9,7 +9,7 @@ This project is a command-line game developed that I developed in C for a course
 ## Usage
 In order to run the program, users will need to download the [CS50 library](https://github.com/cs50/libcs50/releases) and follow these [instructions](https://github.com/m-saylor/libcs50). The code must then be compiled.
 
-To play, users must type "./wordle n" into the command-line, with n being an integer 5, 6, 7, or 8 that indicates how many letters the word should contain. From there, users will be prompted to enter "guess" words until they have solved the puzzle or run out of guesses. Note that this version does not test to see if the user input is a dictionary-verified word.
+To play, users must type "./wordle *n*" into the command-line, with *n* being an integer 5, 6, 7, or 8 that indicates how many letters the word should contain. From there, users will be prompted to enter "guess" words until they have solved the puzzle or run out of guesses. Note that this version does not test to see if the user input is a dictionary-verified word.
 
 ## Specifications
 - *wordle.c* contains the source code that runs the game.

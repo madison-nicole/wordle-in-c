@@ -3,6 +3,8 @@
 ## What is Wordle?
 Wordle is a popular word game created by software engineer Josh Wardle and can be played [online](https://www.nytimes.com/games/wordle/index.html). Players are given six attempts to guess a five-letter word, in which each guess is provided a color code for each letter to indicate if the letter is correct. Red indicates that the letter is not found in the word, yellow indicates that the letter is found in the word but in the incorrect position, and green indicates that that the letter is correct and correctly positioned. 
 
+![](https://github.com/m-saylor/wordle-in-c/blob/main/Wordle-in-C.GIF)
+
 ## Why "Wordle in C?"
 This project is a command-line game developed that I developed in C for a course assignment while studying at Harvard. In this version, users can play a game that functions like Wordle--except for unlimited times, with variations on the word's letter count, and for free--all from their command line! 
 
